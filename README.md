@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Altamash 👋
 
-<!--
-**altamash7014/altamash7014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student @ NIT Warangal | CSE Minor  
+💻 AI/ML | Data Science | Data Analytics
 
-Here are some ideas to get you started:
+I build machine learning and data-driven applications, with a focus on
+AI/ML, data science, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Languages: Python, C++, SQL, R
+- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn
+- Machine Learning: XGBoost, LightGBM, SVM
+- Data Analytics: SQL, Power BI
+- Computer Vision: OpenCV
+- Backend: FastAPI, Streamlit
+- Tools: Git, GitHub, Google Colab
